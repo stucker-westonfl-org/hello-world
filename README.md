@@ -1,5 +1,5 @@
 # hello-world
 Hello World
 
-Bonum mane.
+Salve!
 Haec est dies. 
